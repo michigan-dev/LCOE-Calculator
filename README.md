@@ -69,9 +69,5 @@ The empty `.nojekyll` file at the root tells Pages to serve the files as-is. All
 
 After deploying, update the placeholders:
 
-- `index.html`: `og:url`, `og:image` and `twitter:image` (`YOUR-USERNAME`), and the footer `[YOUR NAME]` / portfolio link.
+- `index.html`: `og:url`, `og:image` and `twitter:image` (`YOUR-USERNAME`), and the footer portfolio link.
 - Replace `docs/screenshot.png` (create the `docs/` folder) with a real screenshot.
-
-## Disclaimer
-
-All figures are illustrative estimates based on simplified assumptions. They are not investment advice.
